@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyQuizz</string>
+    <string name="title_entry">Quizz App!</string>
+    <string name="top_label_entry">Welcome</string>
+    <string name="sublabel_entry">Please enter your name</string>
+    <string name="input_label_entry">Name</string>
+    <string name="buttonName">START</string>
+</resources>
